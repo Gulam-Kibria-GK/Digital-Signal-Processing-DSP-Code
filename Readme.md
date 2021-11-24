@@ -1,4 +1,4 @@
-##Digital-Signal-Processing-Code
+## Digital-Signal-Processing-Code
 * [Adding](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Adding.py)
 * [Impulse](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Impulse.py)
 * [Mirroring](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Mirroring.py)
@@ -11,9 +11,9 @@
 * [Subtracting](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/subtracting.py)
 
 
-============================================== </br>
-Name:     Gulam Kibria Chowdhury</br>
-Study:      CSE, NEUB</br>
-Address:  Sylhet, Bangladesh</br>
-mail: gkpalash101@gmail.com</br>
-============================================== </br>
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>

@@ -73,11 +73,10 @@ Each module is a Python script that:
 
 You are welcome to contribute new DSP modules, suggest improvements, or report issues via GitHub Issues or Pull Requests.
 
-
-===============================================  
-**Gulam Kibria Chowdhury**  
-CSE Graduate || Competitive Programmer  
-Sylhet, Bangladesh  
-Gmail: gkchowdhury101@gmail.com  
-===============================================
+=============================================== <br> 
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
 

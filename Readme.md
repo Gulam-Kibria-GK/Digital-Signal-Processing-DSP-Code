@@ -1,19 +1,51 @@
-## Digital-Signal-Processing-Code
-* [Adding](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Adding.py)
-* [Impulse](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Impulse.py)
-* [Mirroring](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Mirroring.py)
-* [Step](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Step.py)
-* [Time_Shifting](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Time_Shifting.py)
-* [Downsempling](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/downsempling.py)
-* [Product](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/product.py)
-* [Ramp](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/ramp.py)
-* [Scaling](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/scaling.py)
-* [Subtracting](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/subtracting.py)
+# Digital Signal Processing (DSP) Code Collection
 
+This repository contains practical Python implementations of fundamental Digital Signal Processing (DSP) operations, written in a simple, step-by-step manner. These codes are designed for students and beginners who want to learn DSP concepts by writing and running discrete-time signal processing functions from scratch.
 
-=============================================== <br> 
-Gulam Kibria Chowdhury <br>
-CSE Graduate || Competitive Programmer <br>
-Sylhet, Bangladesh <br>
-Gmail: gkchowdhury101@gmail.com <br>
-=============================================== <br>
+---
+
+## Why This Repository?
+
+Understanding DSP concepts deeply requires hands-on practice with signal manipulation. This repository provides code that helps you:
+
+- Visualize discrete-time signals using plots
+- Learn core DSP operations such as addition, mirroring, shifting, scaling, and downsampling
+- Understand how signals are represented by index and amplitude arrays
+- Develop the skill of handling signal lengths and indexing carefully in Python
+
+---
+
+## What You Will Find
+
+Each module is a Python script that:
+
+- Defines a DSP operation on discrete-time signals as `(indices, values)` pairs
+- Carefully manages signal alignment by adjusting indices before performing operations
+- Uses `matplotlib` for clear stem plots of signals before and after processing
+- Includes comments and structured code for easier understanding and modification
+
+---
+
+## DSP Modules Included
+
+| Module          | Description                                   |
+|-----------------|-----------------------------------------------|
+| [`Adding`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Adding.py)        | Addition of two discrete-time signals          |
+| [`Impulse`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Impulse.py)       | Generate and plot an impulse (delta) signal    |
+| [`Mirroring`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Mirroring.py)     | Time reversal (mirroring) of discrete-time signals         |
+| [`Step`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Step.py)          | Generate a step function signal                    |
+| [`Time_Shifting`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/Time_Shifting.py) | Shift discrete-time signals left or right       |
+| [`Downsampling`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/downsempling.py)  | Downsample a signal by a given factor            |
+| [`Product`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/product.py)       | Pointwise multiplication of two signals          |
+| [`Ramp`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/ramp.py)          | Generate a ramp signal                           |
+| [`Scaling`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/scaling.py)       | Scale signal amplitudes                           |
+| [`Subtracting`](https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code/blob/master/Code/subtracting.py)   | Subtract one signal from another                  |
+
+---
+
+## How to Use These Codes
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GK-CPP/Digital-Signal-Processing-DSP-Code.git
+   cd Digital-Signal-Processing-DSP-Code/Code
